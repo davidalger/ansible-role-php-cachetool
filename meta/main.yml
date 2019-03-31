@@ -17,5 +17,5 @@ galaxy_info:
 
   galaxy_tags:
     - system
-    - php-fpm
+    - cachetool
     - php
