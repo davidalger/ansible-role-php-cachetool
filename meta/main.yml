@@ -4,7 +4,8 @@ dependencies: []
 galaxy_info:
   role_name: php_cachetool
   author: David Alger
-  description: Installs CacheTool for PHP allowing you to work with `apc`, `opcache`, and the file status cache through the CLI.
+  description: >
+    Installs CacheTool for PHP allowing you to work with `apc`, `opcache`, etc the file status cache through the CLI.
   license: MIT
   min_ansible_version: 2.4
 
