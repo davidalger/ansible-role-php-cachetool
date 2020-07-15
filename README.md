@@ -1,6 +1,6 @@
 # Ansible Role: PHP CacheTool
 
-[![Build Status](https://travis-ci.org/davidalger/ansible-role-php-cachetool.svg?branch=master)](https://travis-ci.org/davidalger/ansible-role-php-cachetool)
+[![Build Status](https://travis-ci.com/davidalger/ansible-role-php-cachetool.svg?branch=master)](https://travis-ci.com/davidalger/ansible-role-php-cachetool)
 
 Installs CacheTool for PHP from https://github.com/gordalina/cachetool. CacheTool allows you to work with `apc`, `opcache`, and the file status cache through the cli. It will connect to a fastcgi server (like `php-fpm`) and operate it's cache.
 
